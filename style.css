@@ -55,54 +55,28 @@
     justify-content: center;
     align-items: center;
 }
-.box1
+.box1, .box2, .box4, .box5
 {
     border-right: 2px solid gray;
     border-bottom: 2px solid gray;
 
 }
-.box2
-{
-    border-right: 2px solid gray;
-    border-bottom: 2px solid gray;
 
-}
-.box3
+
+.box3,.box6
 {
     
     border-bottom: 2px solid gray;
 
 }
-.box4
-{
-    border-right: 2px solid gray;
-    border-bottom: 2px solid gray;
 
-}
-.box5
-{
-    border-right: 2px solid gray;
-    border-bottom: 2px solid gray;
-
-}
-.box6
-{
-    
-    border-bottom: 2px solid gray;
-
-}
-.box7
+.box7, .box8
 {
     border-right: 2px solid gray;
     /* border-bottom: 2px solid gray; */
 
 }
-.box8
-{
-    border-right: 2px solid gray;
-    /* border-bottom: 2px solid gray; */
 
-}
 
 
 
