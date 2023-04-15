@@ -39,7 +39,7 @@
     
     border: 1px solid rgba(255,255,255,0.25);
     background-color: rgb(60, 172, 224);
-    padding: 2rem;
+    padding: 3rem;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     aspect-ratio: 1/1;
